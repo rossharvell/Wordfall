@@ -818,8 +818,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 516157843}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 43.12568, y: -10.85, z: 5.5666604}
-  m_LocalScale: {x: 22.21818, y: 75.17539, z: 65.133606}
+  m_LocalPosition: {x: 43.12568, y: -10.85, z: 3.01}
+  m_LocalScale: {x: 22.21818, y: 75.17539, z: 58.132717}
   m_Children: []
   m_Father: {fileID: 1150506342}
   m_RootOrder: 1
@@ -2841,8 +2841,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1473593973}
   m_LocalRotation: {x: -0, y: -0.0011451485, z: -0, w: 0.9999994}
-  m_LocalPosition: {x: 43.12568, y: 13.51, z: 64.36666}
-  m_LocalScale: {x: 22.21818, y: 33.90711, z: 65.133606}
+  m_LocalPosition: {x: 41.38, y: 13.51, z: 64.36666}
+  m_LocalScale: {x: 22.21818, y: 33.90711, z: 52.60125}
   m_Children: []
   m_Father: {fileID: 1668074437}
   m_RootOrder: 0
@@ -3907,7 +3907,7 @@ Light:
   m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
+  m_BounceIntensity: 2.6
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 4.5904e-41, y: 0, z: 0, w: 1.7255474e-34}
