@@ -1611,7 +1611,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 454867313}
   m_LocalRotation: {x: -0, y: 0.19705622, z: -0, w: 0.9803923}
-  m_LocalPosition: {x: 61.2, y: 65.059, z: 659.6}
+  m_LocalPosition: {x: 59.3, y: 65.059, z: 659.6}
   m_LocalScale: {x: 22.21818, y: 144.94376, z: 65.133606}
   m_Children: []
   m_Father: {fileID: 1668074437}
@@ -9923,7 +9923,7 @@ GameObject:
   - component: {fileID: 2138677393}
   - component: {fileID: 2138677392}
   m_Layer: 0
-  m_Name: Directional Light
+  m_Name: Skybox Directional Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
