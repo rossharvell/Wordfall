@@ -1491,7 +1491,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!82 &1687210088
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1860,6 +1860,10 @@ PrefabInstance:
     - target: {fileID: 9201737943358303519, guid: 2e7abd61971ca884ba8bc5d36c37dc37, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 9201737943358303525, guid: 2e7abd61971ca884ba8bc5d36c37dc37, type: 3}
+      propertyPath: newFilmScene
+      value: 4.Scene3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2e7abd61971ca884ba8bc5d36c37dc37, type: 3}
