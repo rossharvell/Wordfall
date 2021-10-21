@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delayBeforeLoading: 6
-  sceneNameToLoad: TitleScene
+  sceneNameToLoad: 4.Polaroids
 --- !u!4 &593745224
 Transform:
   m_ObjectHideFlags: 0
