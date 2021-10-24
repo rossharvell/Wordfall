@@ -2766,7 +2766,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9a76e9fbfd61e04b8809cb833624e26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayBeforeLoading: 15
+  delayBeforeLoading: 19.05
   sceneNameToLoad: Scene2
 --- !u!4 &1795180930
 Transform:
@@ -3424,7 +3424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9a76e9fbfd61e04b8809cb833624e26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayBeforeLoading: 6
+  delayBeforeLoading: 19.05
   sceneNameToLoad: 5.Ida
 --- !u!4 &1932213573
 Transform:

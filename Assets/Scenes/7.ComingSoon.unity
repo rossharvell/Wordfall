@@ -220,7 +220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9a76e9fbfd61e04b8809cb833624e26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayBeforeLoading: 6
+  delayBeforeLoading: 19.05
   sceneNameToLoad: 8.CreditsScene
 --- !u!4 &681021126
 Transform:

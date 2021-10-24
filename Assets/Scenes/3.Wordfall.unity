@@ -395,7 +395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9a76e9fbfd61e04b8809cb833624e26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayBeforeLoading: 6
+  delayBeforeLoading: 9.15
   sceneNameToLoad: 4.Polaroids
 --- !u!4 &593745224
 Transform:

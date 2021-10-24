@@ -1677,7 +1677,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9a76e9fbfd61e04b8809cb833624e26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayBeforeLoading: 7
+  delayBeforeLoading: 9.15
   sceneNameToLoad: 3.Wordfall
 --- !u!4 &1034269763
 Transform:
